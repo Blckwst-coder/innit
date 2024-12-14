@@ -9,8 +9,8 @@ FIZZUP_VERSION="v1.1.2"
 GATEWAY_ADDRESS="gwsing.testnetcsphn.xyz" # Provider domain: example = provider.devnetcsphn.com
 GATEWAY_PROXY_PORT="8553" # Proxyport = 8553
 GATEWAY_WEBSOCKET_PORT="8544" # ws url of the gateway example= ws://provider.devnetcsphn.com:8544
-CPU_PRICE="6"
-CPU_UNITS="8"
+CPU_PRICE="3"
+CPU_UNITS="4"
 MEMORY_PRICE="0.8"
 MEMORY_UNITS="8"
 STORAGE_PRICE="1"
